@@ -1,0 +1,1453 @@
+year,region,deaths
+1979,Scotland,31
+1980,Scotland,15
+1981,Scotland,14
+1982,Scotland,3
+1983,Scotland,42
+1984,Scotland,50
+1985,Scotland,43
+1986,Scotland,37
+1987,Scotland,14
+1988,Scotland,25
+1989,Scotland,26
+1990,Scotland,27
+1991,Scotland,5
+1992,Scotland,27
+1993,Scotland,28
+1994,Scotland,9
+1995,Scotland,29
+1996,Scotland,35
+1997,Scotland,8
+1998,Scotland,26
+1999,Scotland,7
+2000,Scotland,42
+2001,Scotland,9
+2002,Scotland,19
+2003,Scotland,36
+2004,Scotland,14
+2005,Scotland,17
+2006,Scotland,43
+2007,Scotland,39
+2008,Scotland,12
+2009,Scotland,15
+2010,Scotland,32
+2011,Scotland,42
+2012,Scotland,45
+2013,Scotland,7
+2014,Scotland,9
+2015,Scotland,41
+2016,Scotland,10
+2017,Scotland,23
+2018,Scotland,27
+2019,Scotland,7
+2020,Scotland,27
+2021,Scotland,32
+2022,Scotland,38
+1979,Aberdeen City,25
+1980,Aberdeen City,34
+1981,Aberdeen City,29
+1982,Aberdeen City,5
+1983,Aberdeen City,8
+1984,Aberdeen City,12
+1985,Aberdeen City,13
+1986,Aberdeen City,18
+1987,Aberdeen City,33
+1988,Aberdeen City,27
+1989,Aberdeen City,25
+1990,Aberdeen City,38
+1991,Aberdeen City,21
+1992,Aberdeen City,15
+1993,Aberdeen City,41
+1994,Aberdeen City,47
+1995,Aberdeen City,26
+1996,Aberdeen City,31
+1997,Aberdeen City,16
+1998,Aberdeen City,30
+1999,Aberdeen City,6
+2000,Aberdeen City,43
+2001,Aberdeen City,8
+2002,Aberdeen City,22
+2003,Aberdeen City,22
+2004,Aberdeen City,39
+2005,Aberdeen City,31
+2006,Aberdeen City,48
+2007,Aberdeen City,17
+2008,Aberdeen City,50
+2009,Aberdeen City,49
+2010,Aberdeen City,34
+2011,Aberdeen City,4
+2012,Aberdeen City,13
+2013,Aberdeen City,5
+2014,Aberdeen City,25
+2015,Aberdeen City,22
+2016,Aberdeen City,25
+2017,Aberdeen City,32
+2018,Aberdeen City,46
+2019,Aberdeen City,25
+2020,Aberdeen City,23
+2021,Aberdeen City,35
+2022,Aberdeen City,40
+1979,Aberdeenshire,48
+1980,Aberdeenshire,30
+1981,Aberdeenshire,12
+1982,Aberdeenshire,31
+1983,Aberdeenshire,46
+1984,Aberdeenshire,30
+1985,Aberdeenshire,35
+1986,Aberdeenshire,14
+1987,Aberdeenshire,29
+1988,Aberdeenshire,32
+1989,Aberdeenshire,7
+1990,Aberdeenshire,3
+1991,Aberdeenshire,23
+1992,Aberdeenshire,15
+1993,Aberdeenshire,21
+1994,Aberdeenshire,37
+1995,Aberdeenshire,8
+1996,Aberdeenshire,10
+1997,Aberdeenshire,50
+1998,Aberdeenshire,42
+1999,Aberdeenshire,44
+2000,Aberdeenshire,34
+2001,Aberdeenshire,10
+2002,Aberdeenshire,22
+2003,Aberdeenshire,12
+2004,Aberdeenshire,20
+2005,Aberdeenshire,46
+2006,Aberdeenshire,17
+2007,Aberdeenshire,46
+2008,Aberdeenshire,35
+2009,Aberdeenshire,40
+2010,Aberdeenshire,46
+2011,Aberdeenshire,30
+2012,Aberdeenshire,15
+2013,Aberdeenshire,24
+2014,Aberdeenshire,49
+2015,Aberdeenshire,23
+2016,Aberdeenshire,43
+2017,Aberdeenshire,7
+2018,Aberdeenshire,29
+2019,Aberdeenshire,15
+2020,Aberdeenshire,23
+2021,Aberdeenshire,26
+2022,Aberdeenshire,38
+1979,Angus,46
+1980,Angus,32
+1981,Angus,7
+1982,Angus,27
+1983,Angus,42
+1984,Angus,5
+1985,Angus,6
+1986,Angus,16
+1987,Angus,24
+1988,Angus,32
+1989,Angus,21
+1990,Angus,11
+1991,Angus,36
+1992,Angus,44
+1993,Angus,46
+1994,Angus,19
+1995,Angus,25
+1996,Angus,39
+1997,Angus,26
+1998,Angus,9
+1999,Angus,7
+2000,Angus,34
+2001,Angus,48
+2002,Angus,13
+2003,Angus,19
+2004,Angus,47
+2005,Angus,39
+2006,Angus,4
+2007,Angus,1
+2008,Angus,40
+2009,Angus,30
+2010,Angus,30
+2011,Angus,25
+2012,Angus,16
+2013,Angus,24
+2014,Angus,11
+2015,Angus,48
+2016,Angus,20
+2017,Angus,40
+2018,Angus,3
+2019,Angus,29
+2020,Angus,36
+2021,Angus,44
+2022,Angus,22
+1979,Argyll and Bute,49
+1980,Argyll and Bute,42
+1981,Argyll and Bute,20
+1982,Argyll and Bute,11
+1983,Argyll and Bute,8
+1984,Argyll and Bute,46
+1985,Argyll and Bute,21
+1986,Argyll and Bute,45
+1987,Argyll and Bute,2
+1988,Argyll and Bute,43
+1989,Argyll and Bute,13
+1990,Argyll and Bute,46
+1991,Argyll and Bute,6
+1992,Argyll and Bute,8
+1993,Argyll and Bute,44
+1994,Argyll and Bute,32
+1995,Argyll and Bute,36
+1996,Argyll and Bute,45
+1997,Argyll and Bute,14
+1998,Argyll and Bute,16
+1999,Argyll and Bute,23
+2000,Argyll and Bute,33
+2001,Argyll and Bute,40
+2002,Argyll and Bute,40
+2003,Argyll and Bute,10
+2004,Argyll and Bute,25
+2005,Argyll and Bute,8
+2006,Argyll and Bute,18
+2007,Argyll and Bute,9
+2008,Argyll and Bute,7
+2009,Argyll and Bute,7
+2010,Argyll and Bute,10
+2011,Argyll and Bute,24
+2012,Argyll and Bute,23
+2013,Argyll and Bute,26
+2014,Argyll and Bute,43
+2015,Argyll and Bute,33
+2016,Argyll and Bute,29
+2017,Argyll and Bute,10
+2018,Argyll and Bute,13
+2019,Argyll and Bute,43
+2020,Argyll and Bute,11
+2021,Argyll and Bute,25
+2022,Argyll and Bute,26
+1979,City of Edinburgh,7
+1980,City of Edinburgh,25
+1981,City of Edinburgh,23
+1982,City of Edinburgh,26
+1983,City of Edinburgh,32
+1984,City of Edinburgh,20
+1985,City of Edinburgh,24
+1986,City of Edinburgh,9
+1987,City of Edinburgh,41
+1988,City of Edinburgh,37
+1989,City of Edinburgh,23
+1990,City of Edinburgh,14
+1991,City of Edinburgh,46
+1992,City of Edinburgh,6
+1993,City of Edinburgh,27
+1994,City of Edinburgh,1
+1995,City of Edinburgh,26
+1996,City of Edinburgh,42
+1997,City of Edinburgh,49
+1998,City of Edinburgh,17
+1999,City of Edinburgh,29
+2000,City of Edinburgh,26
+2001,City of Edinburgh,27
+2002,City of Edinburgh,21
+2003,City of Edinburgh,7
+2004,City of Edinburgh,26
+2005,City of Edinburgh,41
+2006,City of Edinburgh,20
+2007,City of Edinburgh,6
+2008,City of Edinburgh,50
+2009,City of Edinburgh,30
+2010,City of Edinburgh,31
+2011,City of Edinburgh,29
+2012,City of Edinburgh,17
+2013,City of Edinburgh,37
+2014,City of Edinburgh,20
+2015,City of Edinburgh,35
+2016,City of Edinburgh,25
+2017,City of Edinburgh,46
+2018,City of Edinburgh,33
+2019,City of Edinburgh,2
+2020,City of Edinburgh,4
+2021,City of Edinburgh,10
+2022,City of Edinburgh,33
+1979,Clackmannanshire,5
+1980,Clackmannanshire,25
+1981,Clackmannanshire,8
+1982,Clackmannanshire,25
+1983,Clackmannanshire,21
+1984,Clackmannanshire,45
+1985,Clackmannanshire,18
+1986,Clackmannanshire,42
+1987,Clackmannanshire,31
+1988,Clackmannanshire,6
+1989,Clackmannanshire,7
+1990,Clackmannanshire,41
+1991,Clackmannanshire,48
+1992,Clackmannanshire,17
+1993,Clackmannanshire,45
+1994,Clackmannanshire,28
+1995,Clackmannanshire,40
+1996,Clackmannanshire,7
+1997,Clackmannanshire,20
+1998,Clackmannanshire,18
+1999,Clackmannanshire,29
+2000,Clackmannanshire,17
+2001,Clackmannanshire,33
+2002,Clackmannanshire,2
+2003,Clackmannanshire,49
+2004,Clackmannanshire,2
+2005,Clackmannanshire,13
+2006,Clackmannanshire,24
+2007,Clackmannanshire,49
+2008,Clackmannanshire,3
+2009,Clackmannanshire,18
+2010,Clackmannanshire,2
+2011,Clackmannanshire,37
+2012,Clackmannanshire,12
+2013,Clackmannanshire,13
+2014,Clackmannanshire,42
+2015,Clackmannanshire,6
+2016,Clackmannanshire,42
+2017,Clackmannanshire,42
+2018,Clackmannanshire,38
+2019,Clackmannanshire,48
+2020,Clackmannanshire,16
+2021,Clackmannanshire,35
+2022,Clackmannanshire,36
+1979,Dumfries and Galloway,27
+1980,Dumfries and Galloway,27
+1981,Dumfries and Galloway,35
+1982,Dumfries and Galloway,23
+1983,Dumfries and Galloway,3
+1984,Dumfries and Galloway,31
+1985,Dumfries and Galloway,48
+1986,Dumfries and Galloway,2
+1987,Dumfries and Galloway,47
+1988,Dumfries and Galloway,23
+1989,Dumfries and Galloway,3
+1990,Dumfries and Galloway,9
+1991,Dumfries and Galloway,39
+1992,Dumfries and Galloway,30
+1993,Dumfries and Galloway,31
+1994,Dumfries and Galloway,30
+1995,Dumfries and Galloway,9
+1996,Dumfries and Galloway,36
+1997,Dumfries and Galloway,34
+1998,Dumfries and Galloway,22
+1999,Dumfries and Galloway,44
+2000,Dumfries and Galloway,41
+2001,Dumfries and Galloway,28
+2002,Dumfries and Galloway,29
+2003,Dumfries and Galloway,43
+2004,Dumfries and Galloway,39
+2005,Dumfries and Galloway,45
+2006,Dumfries and Galloway,37
+2007,Dumfries and Galloway,43
+2008,Dumfries and Galloway,33
+2009,Dumfries and Galloway,19
+2010,Dumfries and Galloway,12
+2011,Dumfries and Galloway,34
+2012,Dumfries and Galloway,21
+2013,Dumfries and Galloway,17
+2014,Dumfries and Galloway,12
+2015,Dumfries and Galloway,30
+2016,Dumfries and Galloway,35
+2017,Dumfries and Galloway,30
+2018,Dumfries and Galloway,25
+2019,Dumfries and Galloway,50
+2020,Dumfries and Galloway,47
+2021,Dumfries and Galloway,3
+2022,Dumfries and Galloway,18
+1979,Dundee City,32
+1980,Dundee City,17
+1981,Dundee City,38
+1982,Dundee City,42
+1983,Dundee City,40
+1984,Dundee City,42
+1985,Dundee City,32
+1986,Dundee City,26
+1987,Dundee City,13
+1988,Dundee City,20
+1989,Dundee City,38
+1990,Dundee City,20
+1991,Dundee City,29
+1992,Dundee City,20
+1993,Dundee City,30
+1994,Dundee City,41
+1995,Dundee City,48
+1996,Dundee City,8
+1997,Dundee City,39
+1998,Dundee City,10
+1999,Dundee City,17
+2000,Dundee City,18
+2001,Dundee City,40
+2002,Dundee City,42
+2003,Dundee City,11
+2004,Dundee City,49
+2005,Dundee City,44
+2006,Dundee City,2
+2007,Dundee City,19
+2008,Dundee City,13
+2009,Dundee City,13
+2010,Dundee City,31
+2011,Dundee City,30
+2012,Dundee City,22
+2013,Dundee City,30
+2014,Dundee City,10
+2015,Dundee City,16
+2016,Dundee City,5
+2017,Dundee City,36
+2018,Dundee City,50
+2019,Dundee City,33
+2020,Dundee City,16
+2021,Dundee City,28
+2022,Dundee City,49
+1979,East Ayrshire,12
+1980,East Ayrshire,28
+1981,East Ayrshire,2
+1982,East Ayrshire,50
+1983,East Ayrshire,12
+1984,East Ayrshire,47
+1985,East Ayrshire,6
+1986,East Ayrshire,16
+1987,East Ayrshire,15
+1988,East Ayrshire,19
+1989,East Ayrshire,3
+1990,East Ayrshire,46
+1991,East Ayrshire,33
+1992,East Ayrshire,33
+1993,East Ayrshire,48
+1994,East Ayrshire,11
+1995,East Ayrshire,36
+1996,East Ayrshire,44
+1997,East Ayrshire,45
+1998,East Ayrshire,10
+1999,East Ayrshire,42
+2000,East Ayrshire,24
+2001,East Ayrshire,28
+2002,East Ayrshire,39
+2003,East Ayrshire,18
+2004,East Ayrshire,17
+2005,East Ayrshire,20
+2006,East Ayrshire,9
+2007,East Ayrshire,11
+2008,East Ayrshire,44
+2009,East Ayrshire,8
+2010,East Ayrshire,50
+2011,East Ayrshire,5
+2012,East Ayrshire,29
+2013,East Ayrshire,50
+2014,East Ayrshire,6
+2015,East Ayrshire,10
+2016,East Ayrshire,26
+2017,East Ayrshire,9
+2018,East Ayrshire,11
+2019,East Ayrshire,6
+2020,East Ayrshire,32
+2021,East Ayrshire,12
+2022,East Ayrshire,19
+1979,East Dunbartonshire,27
+1980,East Dunbartonshire,32
+1981,East Dunbartonshire,27
+1982,East Dunbartonshire,30
+1983,East Dunbartonshire,4
+1984,East Dunbartonshire,24
+1985,East Dunbartonshire,28
+1986,East Dunbartonshire,3
+1987,East Dunbartonshire,46
+1988,East Dunbartonshire,40
+1989,East Dunbartonshire,6
+1990,East Dunbartonshire,36
+1991,East Dunbartonshire,42
+1992,East Dunbartonshire,48
+1993,East Dunbartonshire,30
+1994,East Dunbartonshire,48
+1995,East Dunbartonshire,10
+1996,East Dunbartonshire,25
+1997,East Dunbartonshire,38
+1998,East Dunbartonshire,36
+1999,East Dunbartonshire,41
+2000,East Dunbartonshire,25
+2001,East Dunbartonshire,4
+2002,East Dunbartonshire,15
+2003,East Dunbartonshire,22
+2004,East Dunbartonshire,49
+2005,East Dunbartonshire,24
+2006,East Dunbartonshire,39
+2007,East Dunbartonshire,47
+2008,East Dunbartonshire,37
+2009,East Dunbartonshire,46
+2010,East Dunbartonshire,47
+2011,East Dunbartonshire,15
+2012,East Dunbartonshire,16
+2013,East Dunbartonshire,19
+2014,East Dunbartonshire,8
+2015,East Dunbartonshire,31
+2016,East Dunbartonshire,37
+2017,East Dunbartonshire,39
+2018,East Dunbartonshire,48
+2019,East Dunbartonshire,16
+2020,East Dunbartonshire,9
+2021,East Dunbartonshire,11
+2022,East Dunbartonshire,43
+1979,East Lothian,30
+1980,East Lothian,10
+1981,East Lothian,34
+1982,East Lothian,38
+1983,East Lothian,20
+1984,East Lothian,46
+1985,East Lothian,14
+1986,East Lothian,6
+1987,East Lothian,18
+1988,East Lothian,2
+1989,East Lothian,8
+1990,East Lothian,11
+1991,East Lothian,21
+1992,East Lothian,7
+1993,East Lothian,23
+1994,East Lothian,8
+1995,East Lothian,10
+1996,East Lothian,37
+1997,East Lothian,17
+1998,East Lothian,6
+1999,East Lothian,40
+2000,East Lothian,6
+2001,East Lothian,47
+2002,East Lothian,28
+2003,East Lothian,32
+2004,East Lothian,49
+2005,East Lothian,35
+2006,East Lothian,28
+2007,East Lothian,47
+2008,East Lothian,20
+2009,East Lothian,1
+2010,East Lothian,5
+2011,East Lothian,11
+2012,East Lothian,47
+2013,East Lothian,20
+2014,East Lothian,2
+2015,East Lothian,48
+2016,East Lothian,10
+2017,East Lothian,49
+2018,East Lothian,7
+2019,East Lothian,38
+2020,East Lothian,44
+2021,East Lothian,36
+2022,East Lothian,23
+1979,East Renfrewshire,34
+1980,East Renfrewshire,24
+1981,East Renfrewshire,4
+1982,East Renfrewshire,29
+1983,East Renfrewshire,23
+1984,East Renfrewshire,11
+1985,East Renfrewshire,33
+1986,East Renfrewshire,50
+1987,East Renfrewshire,48
+1988,East Renfrewshire,3
+1989,East Renfrewshire,33
+1990,East Renfrewshire,30
+1991,East Renfrewshire,34
+1992,East Renfrewshire,2
+1993,East Renfrewshire,40
+1994,East Renfrewshire,20
+1995,East Renfrewshire,14
+1996,East Renfrewshire,25
+1997,East Renfrewshire,45
+1998,East Renfrewshire,7
+1999,East Renfrewshire,40
+2000,East Renfrewshire,35
+2001,East Renfrewshire,31
+2002,East Renfrewshire,22
+2003,East Renfrewshire,16
+2004,East Renfrewshire,22
+2005,East Renfrewshire,29
+2006,East Renfrewshire,33
+2007,East Renfrewshire,44
+2008,East Renfrewshire,50
+2009,East Renfrewshire,31
+2010,East Renfrewshire,46
+2011,East Renfrewshire,8
+2012,East Renfrewshire,24
+2013,East Renfrewshire,30
+2014,East Renfrewshire,23
+2015,East Renfrewshire,37
+2016,East Renfrewshire,32
+2017,East Renfrewshire,17
+2018,East Renfrewshire,26
+2019,East Renfrewshire,43
+2020,East Renfrewshire,23
+2021,East Renfrewshire,26
+2022,East Renfrewshire,36
+1979,Falkirk,45
+1980,Falkirk,8
+1981,Falkirk,15
+1982,Falkirk,36
+1983,Falkirk,45
+1984,Falkirk,3
+1985,Falkirk,39
+1986,Falkirk,33
+1987,Falkirk,38
+1988,Falkirk,45
+1989,Falkirk,26
+1990,Falkirk,28
+1991,Falkirk,26
+1992,Falkirk,17
+1993,Falkirk,23
+1994,Falkirk,38
+1995,Falkirk,10
+1996,Falkirk,45
+1997,Falkirk,38
+1998,Falkirk,41
+1999,Falkirk,8
+2000,Falkirk,1
+2001,Falkirk,16
+2002,Falkirk,2
+2003,Falkirk,40
+2004,Falkirk,14
+2005,Falkirk,12
+2006,Falkirk,26
+2007,Falkirk,8
+2008,Falkirk,41
+2009,Falkirk,8
+2010,Falkirk,9
+2011,Falkirk,33
+2012,Falkirk,3
+2013,Falkirk,40
+2014,Falkirk,2
+2015,Falkirk,1
+2016,Falkirk,9
+2017,Falkirk,7
+2018,Falkirk,13
+2019,Falkirk,29
+2020,Falkirk,20
+2021,Falkirk,14
+2022,Falkirk,16
+1979,Fife,7
+1980,Fife,36
+1981,Fife,45
+1982,Fife,12
+1983,Fife,25
+1984,Fife,27
+1985,Fife,13
+1986,Fife,20
+1987,Fife,10
+1988,Fife,30
+1989,Fife,41
+1990,Fife,12
+1991,Fife,8
+1992,Fife,7
+1993,Fife,15
+1994,Fife,19
+1995,Fife,49
+1996,Fife,43
+1997,Fife,39
+1998,Fife,23
+1999,Fife,35
+2000,Fife,6
+2001,Fife,7
+2002,Fife,4
+2003,Fife,10
+2004,Fife,17
+2005,Fife,48
+2006,Fife,8
+2007,Fife,3
+2008,Fife,44
+2009,Fife,46
+2010,Fife,37
+2011,Fife,14
+2012,Fife,28
+2013,Fife,6
+2014,Fife,9
+2015,Fife,33
+2016,Fife,46
+2017,Fife,19
+2018,Fife,37
+2019,Fife,34
+2020,Fife,1
+2021,Fife,28
+2022,Fife,30
+1979,Glasgow City,4
+1980,Glasgow City,26
+1981,Glasgow City,11
+1982,Glasgow City,5
+1983,Glasgow City,36
+1984,Glasgow City,19
+1985,Glasgow City,35
+1986,Glasgow City,33
+1987,Glasgow City,39
+1988,Glasgow City,5
+1989,Glasgow City,23
+1990,Glasgow City,41
+1991,Glasgow City,25
+1992,Glasgow City,49
+1993,Glasgow City,21
+1994,Glasgow City,5
+1995,Glasgow City,12
+1996,Glasgow City,2
+1997,Glasgow City,18
+1998,Glasgow City,4
+1999,Glasgow City,42
+2000,Glasgow City,47
+2001,Glasgow City,23
+2002,Glasgow City,8
+2003,Glasgow City,1
+2004,Glasgow City,11
+2005,Glasgow City,37
+2006,Glasgow City,11
+2007,Glasgow City,15
+2008,Glasgow City,15
+2009,Glasgow City,42
+2010,Glasgow City,15
+2011,Glasgow City,15
+2012,Glasgow City,44
+2013,Glasgow City,41
+2014,Glasgow City,25
+2015,Glasgow City,36
+2016,Glasgow City,3
+2017,Glasgow City,7
+2018,Glasgow City,4
+2019,Glasgow City,40
+2020,Glasgow City,37
+2021,Glasgow City,24
+2022,Glasgow City,38
+1979,Highland,4
+1980,Highland,3
+1981,Highland,11
+1982,Highland,10
+1983,Highland,29
+1984,Highland,23
+1985,Highland,5
+1986,Highland,24
+1987,Highland,32
+1988,Highland,25
+1989,Highland,11
+1990,Highland,10
+1991,Highland,15
+1992,Highland,31
+1993,Highland,10
+1994,Highland,45
+1995,Highland,24
+1996,Highland,35
+1997,Highland,50
+1998,Highland,10
+1999,Highland,8
+2000,Highland,44
+2001,Highland,42
+2002,Highland,32
+2003,Highland,39
+2004,Highland,7
+2005,Highland,38
+2006,Highland,17
+2007,Highland,20
+2008,Highland,33
+2009,Highland,37
+2010,Highland,10
+2011,Highland,45
+2012,Highland,10
+2013,Highland,2
+2014,Highland,15
+2015,Highland,23
+2016,Highland,47
+2017,Highland,40
+2018,Highland,35
+2019,Highland,2
+2020,Highland,6
+2021,Highland,46
+2022,Highland,47
+1979,Inverclyde,9
+1980,Inverclyde,23
+1981,Inverclyde,25
+1982,Inverclyde,15
+1983,Inverclyde,22
+1984,Inverclyde,48
+1985,Inverclyde,8
+1986,Inverclyde,29
+1987,Inverclyde,41
+1988,Inverclyde,21
+1989,Inverclyde,48
+1990,Inverclyde,9
+1991,Inverclyde,34
+1992,Inverclyde,41
+1993,Inverclyde,43
+1994,Inverclyde,11
+1995,Inverclyde,4
+1996,Inverclyde,7
+1997,Inverclyde,50
+1998,Inverclyde,11
+1999,Inverclyde,33
+2000,Inverclyde,11
+2001,Inverclyde,38
+2002,Inverclyde,21
+2003,Inverclyde,10
+2004,Inverclyde,50
+2005,Inverclyde,3
+2006,Inverclyde,35
+2007,Inverclyde,34
+2008,Inverclyde,40
+2009,Inverclyde,28
+2010,Inverclyde,13
+2011,Inverclyde,8
+2012,Inverclyde,2
+2013,Inverclyde,6
+2014,Inverclyde,23
+2015,Inverclyde,17
+2016,Inverclyde,32
+2017,Inverclyde,14
+2018,Inverclyde,7
+2019,Inverclyde,13
+2020,Inverclyde,8
+2021,Inverclyde,38
+2022,Inverclyde,11
+1979,Midlothian,42
+1980,Midlothian,17
+1981,Midlothian,7
+1982,Midlothian,44
+1983,Midlothian,19
+1984,Midlothian,49
+1985,Midlothian,40
+1986,Midlothian,15
+1987,Midlothian,46
+1988,Midlothian,14
+1989,Midlothian,26
+1990,Midlothian,27
+1991,Midlothian,17
+1992,Midlothian,33
+1993,Midlothian,50
+1994,Midlothian,18
+1995,Midlothian,20
+1996,Midlothian,27
+1997,Midlothian,42
+1998,Midlothian,10
+1999,Midlothian,9
+2000,Midlothian,31
+2001,Midlothian,19
+2002,Midlothian,50
+2003,Midlothian,18
+2004,Midlothian,44
+2005,Midlothian,44
+2006,Midlothian,28
+2007,Midlothian,21
+2008,Midlothian,29
+2009,Midlothian,36
+2010,Midlothian,20
+2011,Midlothian,23
+2012,Midlothian,42
+2013,Midlothian,5
+2014,Midlothian,2
+2015,Midlothian,18
+2016,Midlothian,12
+2017,Midlothian,13
+2018,Midlothian,43
+2019,Midlothian,38
+2020,Midlothian,18
+2021,Midlothian,10
+2022,Midlothian,9
+1979,Moray,35
+1980,Moray,29
+1981,Moray,22
+1982,Moray,19
+1983,Moray,8
+1984,Moray,45
+1985,Moray,33
+1986,Moray,2
+1987,Moray,43
+1988,Moray,48
+1989,Moray,5
+1990,Moray,21
+1991,Moray,31
+1992,Moray,36
+1993,Moray,27
+1994,Moray,23
+1995,Moray,3
+1996,Moray,15
+1997,Moray,42
+1998,Moray,39
+1999,Moray,7
+2000,Moray,34
+2001,Moray,31
+2002,Moray,18
+2003,Moray,18
+2004,Moray,35
+2005,Moray,40
+2006,Moray,46
+2007,Moray,9
+2008,Moray,15
+2009,Moray,17
+2010,Moray,7
+2011,Moray,30
+2012,Moray,8
+2013,Moray,1
+2014,Moray,9
+2015,Moray,35
+2016,Moray,25
+2017,Moray,2
+2018,Moray,11
+2019,Moray,4
+2020,Moray,40
+2021,Moray,20
+2022,Moray,11
+1979,Na h-Eileanan Siar,18
+1980,Na h-Eileanan Siar,14
+1981,Na h-Eileanan Siar,3
+1982,Na h-Eileanan Siar,28
+1983,Na h-Eileanan Siar,3
+1984,Na h-Eileanan Siar,46
+1985,Na h-Eileanan Siar,28
+1986,Na h-Eileanan Siar,29
+1987,Na h-Eileanan Siar,39
+1988,Na h-Eileanan Siar,23
+1989,Na h-Eileanan Siar,15
+1990,Na h-Eileanan Siar,23
+1991,Na h-Eileanan Siar,24
+1992,Na h-Eileanan Siar,40
+1993,Na h-Eileanan Siar,33
+1994,Na h-Eileanan Siar,37
+1995,Na h-Eileanan Siar,29
+1996,Na h-Eileanan Siar,49
+1997,Na h-Eileanan Siar,6
+1998,Na h-Eileanan Siar,25
+1999,Na h-Eileanan Siar,42
+2000,Na h-Eileanan Siar,26
+2001,Na h-Eileanan Siar,24
+2002,Na h-Eileanan Siar,44
+2003,Na h-Eileanan Siar,32
+2004,Na h-Eileanan Siar,8
+2005,Na h-Eileanan Siar,16
+2006,Na h-Eileanan Siar,39
+2007,Na h-Eileanan Siar,32
+2008,Na h-Eileanan Siar,39
+2009,Na h-Eileanan Siar,1
+2010,Na h-Eileanan Siar,30
+2011,Na h-Eileanan Siar,25
+2012,Na h-Eileanan Siar,43
+2013,Na h-Eileanan Siar,3
+2014,Na h-Eileanan Siar,22
+2015,Na h-Eileanan Siar,17
+2016,Na h-Eileanan Siar,20
+2017,Na h-Eileanan Siar,35
+2018,Na h-Eileanan Siar,14
+2019,Na h-Eileanan Siar,37
+2020,Na h-Eileanan Siar,50
+2021,Na h-Eileanan Siar,24
+2022,Na h-Eileanan Siar,30
+1979,North Ayrshire,8
+1980,North Ayrshire,20
+1981,North Ayrshire,10
+1982,North Ayrshire,22
+1983,North Ayrshire,50
+1984,North Ayrshire,17
+1985,North Ayrshire,9
+1986,North Ayrshire,35
+1987,North Ayrshire,37
+1988,North Ayrshire,21
+1989,North Ayrshire,16
+1990,North Ayrshire,26
+1991,North Ayrshire,35
+1992,North Ayrshire,35
+1993,North Ayrshire,26
+1994,North Ayrshire,13
+1995,North Ayrshire,36
+1996,North Ayrshire,47
+1997,North Ayrshire,25
+1998,North Ayrshire,28
+1999,North Ayrshire,29
+2000,North Ayrshire,13
+2001,North Ayrshire,44
+2002,North Ayrshire,21
+2003,North Ayrshire,25
+2004,North Ayrshire,29
+2005,North Ayrshire,20
+2006,North Ayrshire,29
+2007,North Ayrshire,13
+2008,North Ayrshire,13
+2009,North Ayrshire,35
+2010,North Ayrshire,5
+2011,North Ayrshire,13
+2012,North Ayrshire,23
+2013,North Ayrshire,28
+2014,North Ayrshire,44
+2015,North Ayrshire,8
+2016,North Ayrshire,38
+2017,North Ayrshire,24
+2018,North Ayrshire,16
+2019,North Ayrshire,11
+2020,North Ayrshire,23
+2021,North Ayrshire,30
+2022,North Ayrshire,32
+1979,North Lanarkshire,27
+1980,North Lanarkshire,44
+1981,North Lanarkshire,48
+1982,North Lanarkshire,15
+1983,North Lanarkshire,1
+1984,North Lanarkshire,44
+1985,North Lanarkshire,10
+1986,North Lanarkshire,22
+1987,North Lanarkshire,42
+1988,North Lanarkshire,36
+1989,North Lanarkshire,41
+1990,North Lanarkshire,25
+1991,North Lanarkshire,30
+1992,North Lanarkshire,37
+1993,North Lanarkshire,27
+1994,North Lanarkshire,9
+1995,North Lanarkshire,19
+1996,North Lanarkshire,35
+1997,North Lanarkshire,34
+1998,North Lanarkshire,23
+1999,North Lanarkshire,12
+2000,North Lanarkshire,15
+2001,North Lanarkshire,49
+2002,North Lanarkshire,35
+2003,North Lanarkshire,29
+2004,North Lanarkshire,7
+2005,North Lanarkshire,29
+2006,North Lanarkshire,45
+2007,North Lanarkshire,46
+2008,North Lanarkshire,34
+2009,North Lanarkshire,9
+2010,North Lanarkshire,47
+2011,North Lanarkshire,1
+2012,North Lanarkshire,10
+2013,North Lanarkshire,41
+2014,North Lanarkshire,41
+2015,North Lanarkshire,39
+2016,North Lanarkshire,50
+2017,North Lanarkshire,44
+2018,North Lanarkshire,23
+2019,North Lanarkshire,6
+2020,North Lanarkshire,32
+2021,North Lanarkshire,39
+2022,North Lanarkshire,16
+1979,Orkney Islands,26
+1980,Orkney Islands,16
+1981,Orkney Islands,2
+1982,Orkney Islands,34
+1983,Orkney Islands,14
+1984,Orkney Islands,30
+1985,Orkney Islands,28
+1986,Orkney Islands,21
+1987,Orkney Islands,23
+1988,Orkney Islands,30
+1989,Orkney Islands,25
+1990,Orkney Islands,39
+1991,Orkney Islands,6
+1992,Orkney Islands,4
+1993,Orkney Islands,3
+1994,Orkney Islands,46
+1995,Orkney Islands,46
+1996,Orkney Islands,48
+1997,Orkney Islands,10
+1998,Orkney Islands,28
+1999,Orkney Islands,12
+2000,Orkney Islands,50
+2001,Orkney Islands,3
+2002,Orkney Islands,1
+2003,Orkney Islands,44
+2004,Orkney Islands,49
+2005,Orkney Islands,33
+2006,Orkney Islands,36
+2007,Orkney Islands,13
+2008,Orkney Islands,50
+2009,Orkney Islands,15
+2010,Orkney Islands,13
+2011,Orkney Islands,46
+2012,Orkney Islands,30
+2013,Orkney Islands,18
+2014,Orkney Islands,44
+2015,Orkney Islands,50
+2016,Orkney Islands,39
+2017,Orkney Islands,26
+2018,Orkney Islands,36
+2019,Orkney Islands,36
+2020,Orkney Islands,3
+2021,Orkney Islands,25
+2022,Orkney Islands,11
+1979,Perth and Kinross,30
+1980,Perth and Kinross,16
+1981,Perth and Kinross,47
+1982,Perth and Kinross,11
+1983,Perth and Kinross,38
+1984,Perth and Kinross,32
+1985,Perth and Kinross,31
+1986,Perth and Kinross,37
+1987,Perth and Kinross,2
+1988,Perth and Kinross,22
+1989,Perth and Kinross,17
+1990,Perth and Kinross,5
+1991,Perth and Kinross,15
+1992,Perth and Kinross,32
+1993,Perth and Kinross,35
+1994,Perth and Kinross,27
+1995,Perth and Kinross,22
+1996,Perth and Kinross,25
+1997,Perth and Kinross,15
+1998,Perth and Kinross,35
+1999,Perth and Kinross,30
+2000,Perth and Kinross,34
+2001,Perth and Kinross,5
+2002,Perth and Kinross,5
+2003,Perth and Kinross,7
+2004,Perth and Kinross,2
+2005,Perth and Kinross,16
+2006,Perth and Kinross,40
+2007,Perth and Kinross,23
+2008,Perth and Kinross,23
+2009,Perth and Kinross,24
+2010,Perth and Kinross,21
+2011,Perth and Kinross,18
+2012,Perth and Kinross,19
+2013,Perth and Kinross,9
+2014,Perth and Kinross,19
+2015,Perth and Kinross,46
+2016,Perth and Kinross,19
+2017,Perth and Kinross,5
+2018,Perth and Kinross,45
+2019,Perth and Kinross,16
+2020,Perth and Kinross,39
+2021,Perth and Kinross,40
+2022,Perth and Kinross,32
+1979,Renfrewshire,48
+1980,Renfrewshire,15
+1981,Renfrewshire,26
+1982,Renfrewshire,20
+1983,Renfrewshire,35
+1984,Renfrewshire,31
+1985,Renfrewshire,24
+1986,Renfrewshire,17
+1987,Renfrewshire,7
+1988,Renfrewshire,13
+1989,Renfrewshire,35
+1990,Renfrewshire,13
+1991,Renfrewshire,14
+1992,Renfrewshire,4
+1993,Renfrewshire,25
+1994,Renfrewshire,29
+1995,Renfrewshire,16
+1996,Renfrewshire,41
+1997,Renfrewshire,48
+1998,Renfrewshire,9
+1999,Renfrewshire,37
+2000,Renfrewshire,22
+2001,Renfrewshire,46
+2002,Renfrewshire,44
+2003,Renfrewshire,22
+2004,Renfrewshire,24
+2005,Renfrewshire,14
+2006,Renfrewshire,30
+2007,Renfrewshire,45
+2008,Renfrewshire,47
+2009,Renfrewshire,40
+2010,Renfrewshire,45
+2011,Renfrewshire,31
+2012,Renfrewshire,39
+2013,Renfrewshire,37
+2014,Renfrewshire,8
+2015,Renfrewshire,47
+2016,Renfrewshire,14
+2017,Renfrewshire,48
+2018,Renfrewshire,1
+2019,Renfrewshire,23
+2020,Renfrewshire,26
+2021,Renfrewshire,46
+2022,Renfrewshire,23
+1979,Scottish Borders,31
+1980,Scottish Borders,21
+1981,Scottish Borders,17
+1982,Scottish Borders,39
+1983,Scottish Borders,7
+1984,Scottish Borders,45
+1985,Scottish Borders,47
+1986,Scottish Borders,12
+1987,Scottish Borders,32
+1988,Scottish Borders,46
+1989,Scottish Borders,19
+1990,Scottish Borders,19
+1991,Scottish Borders,25
+1992,Scottish Borders,17
+1993,Scottish Borders,9
+1994,Scottish Borders,45
+1995,Scottish Borders,46
+1996,Scottish Borders,23
+1997,Scottish Borders,31
+1998,Scottish Borders,38
+1999,Scottish Borders,33
+2000,Scottish Borders,16
+2001,Scottish Borders,8
+2002,Scottish Borders,5
+2003,Scottish Borders,10
+2004,Scottish Borders,41
+2005,Scottish Borders,28
+2006,Scottish Borders,37
+2007,Scottish Borders,46
+2008,Scottish Borders,19
+2009,Scottish Borders,33
+2010,Scottish Borders,16
+2011,Scottish Borders,6
+2012,Scottish Borders,8
+2013,Scottish Borders,25
+2014,Scottish Borders,14
+2015,Scottish Borders,31
+2016,Scottish Borders,46
+2017,Scottish Borders,25
+2018,Scottish Borders,8
+2019,Scottish Borders,43
+2020,Scottish Borders,24
+2021,Scottish Borders,5
+2022,Scottish Borders,14
+1979,Shetland Islands,33
+1980,Shetland Islands,1
+1981,Shetland Islands,37
+1982,Shetland Islands,35
+1983,Shetland Islands,4
+1984,Shetland Islands,35
+1985,Shetland Islands,46
+1986,Shetland Islands,18
+1987,Shetland Islands,10
+1988,Shetland Islands,12
+1989,Shetland Islands,48
+1990,Shetland Islands,3
+1991,Shetland Islands,26
+1992,Shetland Islands,12
+1993,Shetland Islands,37
+1994,Shetland Islands,45
+1995,Shetland Islands,8
+1996,Shetland Islands,17
+1997,Shetland Islands,5
+1998,Shetland Islands,19
+1999,Shetland Islands,38
+2000,Shetland Islands,32
+2001,Shetland Islands,2
+2002,Shetland Islands,17
+2003,Shetland Islands,49
+2004,Shetland Islands,8
+2005,Shetland Islands,18
+2006,Shetland Islands,26
+2007,Shetland Islands,30
+2008,Shetland Islands,19
+2009,Shetland Islands,5
+2010,Shetland Islands,29
+2011,Shetland Islands,29
+2012,Shetland Islands,46
+2013,Shetland Islands,12
+2014,Shetland Islands,1
+2015,Shetland Islands,48
+2016,Shetland Islands,30
+2017,Shetland Islands,50
+2018,Shetland Islands,7
+2019,Shetland Islands,5
+2020,Shetland Islands,10
+2021,Shetland Islands,36
+2022,Shetland Islands,8
+1979,South Ayrshire,49
+1980,South Ayrshire,31
+1981,South Ayrshire,5
+1982,South Ayrshire,39
+1983,South Ayrshire,22
+1984,South Ayrshire,12
+1985,South Ayrshire,45
+1986,South Ayrshire,10
+1987,South Ayrshire,29
+1988,South Ayrshire,30
+1989,South Ayrshire,1
+1990,South Ayrshire,47
+1991,South Ayrshire,14
+1992,South Ayrshire,7
+1993,South Ayrshire,34
+1994,South Ayrshire,10
+1995,South Ayrshire,15
+1996,South Ayrshire,19
+1997,South Ayrshire,18
+1998,South Ayrshire,46
+1999,South Ayrshire,22
+2000,South Ayrshire,18
+2001,South Ayrshire,3
+2002,South Ayrshire,43
+2003,South Ayrshire,37
+2004,South Ayrshire,46
+2005,South Ayrshire,18
+2006,South Ayrshire,41
+2007,South Ayrshire,1
+2008,South Ayrshire,39
+2009,South Ayrshire,15
+2010,South Ayrshire,49
+2011,South Ayrshire,6
+2012,South Ayrshire,45
+2013,South Ayrshire,33
+2014,South Ayrshire,38
+2015,South Ayrshire,40
+2016,South Ayrshire,10
+2017,South Ayrshire,34
+2018,South Ayrshire,26
+2019,South Ayrshire,18
+2020,South Ayrshire,5
+2021,South Ayrshire,35
+2022,South Ayrshire,6
+1979,South Lanarkshire,29
+1980,South Lanarkshire,43
+1981,South Lanarkshire,9
+1982,South Lanarkshire,22
+1983,South Lanarkshire,20
+1984,South Lanarkshire,47
+1985,South Lanarkshire,30
+1986,South Lanarkshire,50
+1987,South Lanarkshire,39
+1988,South Lanarkshire,41
+1989,South Lanarkshire,14
+1990,South Lanarkshire,29
+1991,South Lanarkshire,11
+1992,South Lanarkshire,20
+1993,South Lanarkshire,17
+1994,South Lanarkshire,44
+1995,South Lanarkshire,24
+1996,South Lanarkshire,44
+1997,South Lanarkshire,25
+1998,South Lanarkshire,13
+1999,South Lanarkshire,12
+2000,South Lanarkshire,6
+2001,South Lanarkshire,3
+2002,South Lanarkshire,28
+2003,South Lanarkshire,44
+2004,South Lanarkshire,44
+2005,South Lanarkshire,11
+2006,South Lanarkshire,19
+2007,South Lanarkshire,11
+2008,South Lanarkshire,36
+2009,South Lanarkshire,22
+2010,South Lanarkshire,11
+2011,South Lanarkshire,27
+2012,South Lanarkshire,2
+2013,South Lanarkshire,39
+2014,South Lanarkshire,6
+2015,South Lanarkshire,39
+2016,South Lanarkshire,36
+2017,South Lanarkshire,48
+2018,South Lanarkshire,28
+2019,South Lanarkshire,29
+2020,South Lanarkshire,4
+2021,South Lanarkshire,41
+2022,South Lanarkshire,5
+1979,Stirling,48
+1980,Stirling,31
+1981,Stirling,43
+1982,Stirling,48
+1983,Stirling,9
+1984,Stirling,19
+1985,Stirling,28
+1986,Stirling,15
+1987,Stirling,11
+1988,Stirling,29
+1989,Stirling,17
+1990,Stirling,41
+1991,Stirling,25
+1992,Stirling,47
+1993,Stirling,12
+1994,Stirling,19
+1995,Stirling,7
+1996,Stirling,11
+1997,Stirling,15
+1998,Stirling,9
+1999,Stirling,46
+2000,Stirling,24
+2001,Stirling,19
+2002,Stirling,11
+2003,Stirling,33
+2004,Stirling,9
+2005,Stirling,41
+2006,Stirling,23
+2007,Stirling,17
+2008,Stirling,10
+2009,Stirling,8
+2010,Stirling,18
+2011,Stirling,24
+2012,Stirling,38
+2013,Stirling,25
+2014,Stirling,50
+2015,Stirling,7
+2016,Stirling,39
+2017,Stirling,12
+2018,Stirling,41
+2019,Stirling,16
+2020,Stirling,3
+2021,Stirling,31
+2022,Stirling,35
+1979,West Dunbartonshire,21
+1980,West Dunbartonshire,46
+1981,West Dunbartonshire,34
+1982,West Dunbartonshire,28
+1983,West Dunbartonshire,36
+1984,West Dunbartonshire,26
+1985,West Dunbartonshire,1
+1986,West Dunbartonshire,26
+1987,West Dunbartonshire,21
+1988,West Dunbartonshire,42
+1989,West Dunbartonshire,21
+1990,West Dunbartonshire,38
+1991,West Dunbartonshire,35
+1992,West Dunbartonshire,30
+1993,West Dunbartonshire,12
+1994,West Dunbartonshire,33
+1995,West Dunbartonshire,44
+1996,West Dunbartonshire,13
+1997,West Dunbartonshire,50
+1998,West Dunbartonshire,33
+1999,West Dunbartonshire,24
+2000,West Dunbartonshire,9
+2001,West Dunbartonshire,31
+2002,West Dunbartonshire,32
+2003,West Dunbartonshire,2
+2004,West Dunbartonshire,31
+2005,West Dunbartonshire,27
+2006,West Dunbartonshire,35
+2007,West Dunbartonshire,33
+2008,West Dunbartonshire,23
+2009,West Dunbartonshire,50
+2010,West Dunbartonshire,37
+2011,West Dunbartonshire,10
+2012,West Dunbartonshire,43
+2013,West Dunbartonshire,19
+2014,West Dunbartonshire,16
+2015,West Dunbartonshire,47
+2016,West Dunbartonshire,39
+2017,West Dunbartonshire,32
+2018,West Dunbartonshire,48
+2019,West Dunbartonshire,50
+2020,West Dunbartonshire,19
+2021,West Dunbartonshire,4
+2022,West Dunbartonshire,35
+1979,West Lothian,34
+1980,West Lothian,29
+1981,West Lothian,13
+1982,West Lothian,36
+1983,West Lothian,20
+1984,West Lothian,38
+1985,West Lothian,3
+1986,West Lothian,25
+1987,West Lothian,21
+1988,West Lothian,40
+1989,West Lothian,5
+1990,West Lothian,5
+1991,West Lothian,19
+1992,West Lothian,44
+1993,West Lothian,30
+1994,West Lothian,7
+1995,West Lothian,46
+1996,West Lothian,17
+1997,West Lothian,29
+1998,West Lothian,34
+1999,West Lothian,17
+2000,West Lothian,11
+2001,West Lothian,14
+2002,West Lothian,40
+2003,West Lothian,33
+2004,West Lothian,34
+2005,West Lothian,10
+2006,West Lothian,34
+2007,West Lothian,38
+2008,West Lothian,13
+2009,West Lothian,12
+2010,West Lothian,35
+2011,West Lothian,40
+2012,West Lothian,33
+2013,West Lothian,46
+2014,West Lothian,43
+2015,West Lothian,11
+2016,West Lothian,8
+2017,West Lothian,17
+2018,West Lothian,4
+2019,West Lothian,12
+2020,West Lothian,47
+2021,West Lothian,14
+2022,West Lothian,27
