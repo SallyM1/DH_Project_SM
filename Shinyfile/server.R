@@ -30,6 +30,8 @@ function(input, output, session) {
 library(shiny)
 library(ggplot2)
 
+source("Rfile.R")
+
 shinyServer(function(input, output) {
   # Reactive function to filter data based on selected region
   filtered_data <- reactive({

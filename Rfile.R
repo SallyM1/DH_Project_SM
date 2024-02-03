@@ -1,5 +1,5 @@
 getwd()
-setwd( "C:/Users/sally/OneDrive/Desktop/Digital Health/DH_Project_SM/alcohol_deaths.csv")
+setwd( "C:/Users/sally/OneDrive/Desktop/Digital Health/DH_Project_SM")
 
 library(pacman)
 
@@ -31,5 +31,6 @@ print(column_class)
 
 column_class <- class(alcohol_deaths$deaths)
 print(column_class)
+
 
 

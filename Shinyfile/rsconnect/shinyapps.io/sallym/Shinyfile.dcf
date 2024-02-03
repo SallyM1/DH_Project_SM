@@ -1,0 +1,12 @@
+name: Shinyfile
+title: Shinyfile
+username: sallym
+account: sallym
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11120509
+bundleId: 8214082
+url: https://sallym.shinyapps.io/Shinyfile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
